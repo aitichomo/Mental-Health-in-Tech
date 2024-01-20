@@ -9,12 +9,6 @@ Explore and analyze mental health data in the tech industry with this Jupyter no
 - Machine learning models predicting mental health outcomes.
 - Codebase for reproducibility and further exploration.
 
-## Table of Contents
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Requirements
 
