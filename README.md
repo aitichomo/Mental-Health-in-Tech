@@ -1,7 +1,7 @@
 # Mental Health in Tech Survey
 
 ## Overview
-Explore and analyze mental health data in the tech industry with this Jupyter notebook. Gain insights into the prevalence of mental health issues, factors influencing them, and trends over the years.
+Explore and analyze mental health data in the tech industry with this Colab notebook. Gain insights into the prevalence of mental health issues, factors influencing them, and trends over the years.
 
 ## Highlights
 - In-depth analysis of mental health survey data.
