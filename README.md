@@ -8,7 +8,13 @@ Explore and analyze mental health data in the tech industry with this Colab note
 - Visualizations illustrating trends and patterns.
 - Machine learning models predicting mental health outcomes.
 - Codebase for reproducibility and further exploration.
+## Features and Feature Engineering
 
+We have incorporated relevant features and performed feature engineering to enhance the predictive power of our models. Some of the features include 'Age', 'self_employed', 'family_history', 'no_employees', and a new feature 'interaction_feature' created from 'Age' and 'no_employees'.
+
+## Decision Tree Classification
+
+We have implemented a Decision Tree Classifier using scikit-learn to predict 'mental_health_status'. The model is trained on the dataset, and its performance is evaluated using accuracy, confusion matrix, and classification report metrics.
 
 ## Requirements
 
